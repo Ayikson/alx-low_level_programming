@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <unistd.h>
+#include <Stdio.h>
+#include <Unistd.h>
 /**
  * main - Program that prints an exact line followed by a standard error
  * Return: 1
