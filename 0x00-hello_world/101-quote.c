@@ -2,7 +2,6 @@
 #include <unistd.h>
 /**
  * main - Program that prints an exact line followed by a standard error
- *
  * Return: 1
  */
 int main(void)
