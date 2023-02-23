@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * more_numbers - nmbr fct
+ * more_numbers - number 0 to 14
  * 
  * Return: no return
  */
+
 void more_numbers(void)
 {
 
