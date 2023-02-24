@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - number 0 to 14
- * 
+ * more_numbers - print more numbers
  * Return: no return
  */
 
@@ -15,9 +14,9 @@ int i, j;
 		for (j = 0; j <= 14; j++)
 		{
 			if (j >= 10)
-			_putchar('1');
-			_putchar(j % 10 + '0');
+				_putchar('1');
+			_Putchar(j % 10 + '0');
 		}
-			_putchar('\n');
-		}
+		_putchar('\n');
+	}
 }
